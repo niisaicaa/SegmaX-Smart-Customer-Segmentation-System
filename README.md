@@ -14,7 +14,7 @@ Proyek dikembangkan menggunakan **Python** dan dijalankan melalui
 
 ---
 
-## Setup Environment (Google Colab)
+## Instruksi Menjalankan Code
 
 1. Buka Google Colab melalui:
    https://colab.research.google.com/
@@ -23,3 +23,5 @@ Proyek dikembangkan menggunakan **Python** dan dijalankan melalui
 4. Install dependensi:
    pip install -r requirements.txt
 5. Jalankan code
+
+## Link Data Final Clustering, Top Products, dan Rare Products: https://drive.google.com/drive/folders/1YnA5zSmAmzbcjQD7bjIcGfTXlLxL4Eiv?usp=sharing
